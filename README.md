@@ -10,16 +10,16 @@ You can find me 🌎:
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, Typescript, HTML, CSS, GIT, Postman],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "React Native"],
+         js: ["React", "Redux", "React Native", "Webpack", "Babel", "Sass"],
          css: ["Bootstrap", "MaterialUI", "TailwindUI"]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["mySQL", "SQLServer", "Sequelize"],
+      databases: ["mySQL", "SQLServer", "Sequelize", "SQLite", "PostgreSQL"],
       
    },
    currentOccupation: ["open for job opportunities and eager to learn new technologies"],
