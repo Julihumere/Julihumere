@@ -2,6 +2,8 @@
 
 ![banner](https://user-images.githubusercontent.com/92033293/160144431-b8956841-82f9-419f-9b08-61824da01dc9.png)
 
+
+```javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS],
@@ -18,3 +20,4 @@ const aboutMe = {
    },
    currentOccupation: ["open for job opportunities and eager to learn new technologies"],
 };
+```
