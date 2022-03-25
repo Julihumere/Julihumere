@@ -6,6 +6,8 @@ You can find me 🌎:
 - [LinkedIN](https://www.linkedin.com/in/juli-humere/)
 - [Instagram](https://www.instagram.com/juli_humere/)
 - [Twitter](https://twitter.com/JuliHumere)
+- [Whatsapp](https://api.whatsapp.com/send/?phone=%2B5493456267235&text&app_absent=0)
+- [Contact via email](julihumere.contact@gmail.com)
 
 ```javascript
 const aboutMe = {
