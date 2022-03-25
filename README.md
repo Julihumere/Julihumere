@@ -9,7 +9,7 @@ You can find me 🌎:
 - <a href="https://www.linkedin.com/in/juli-humere/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">  
   </a>
--  <a href="https://www.instagram.com/juli_humere/">
+- <a href="https://www.instagram.com/juli_humere/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 - <a href="https://twitter.com/JuliHumere">
