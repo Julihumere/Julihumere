@@ -16,7 +16,7 @@ You can find me 🌎:
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
 - <a href="https://api.whatsapp.com/send/?phone=%2B5493456267235&text&app_absent=0">
-    <img src="https://img.shields.io/badge/whatsapp-%230077D4.svg?&style=flat-square&logo=whatsapp&logoColor=green">
+    <img src="https://img.shields.io/badge/whatsapp-%230077D4.svg?&style=flat-square&logo=whatsapp&logoColor=brightgreen">
   </a>
 - Email: julihumere.contact@gmail.com
 
