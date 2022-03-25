@@ -6,7 +6,9 @@
  </headerr> 
 
 You can find me 🌎:
-- [LinkedIN](https://www.linkedin.com/in/juli-humere/)
+- <a href="https://www.linkedin.com/in/juli-humere/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>
 - [Instagram](https://www.instagram.com/juli_humere/)
 - [Twitter](https://twitter.com/JuliHumere)
 - [Whatsapp](https://api.whatsapp.com/send/?phone=%2B5493456267235&text&app_absent=0)
