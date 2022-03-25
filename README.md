@@ -26,7 +26,7 @@ const aboutMe = {
 };
 ```
 <h2>💻 Some stats 💻</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Julihumere&show_icons=true&locale=en&layout=compact" alt="Julihumere" /></p>
+<p display="flex"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Julihumere&show_icons=true&locale=en&layout=compact" alt="Julihumere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Julihumere&show_icons=true&locale=en" alt="Julihumere" /></p>
 
