@@ -1,9 +1,9 @@
 
 ![banner](https://user-images.githubusercontent.com/92033293/160144431-b8956841-82f9-419f-9b08-61824da01dc9.png)
-
+<hr>
    <h1 align="center">Hi I'm Julio 👋</h1> 
    <h3 align="center"> 💻 I'm FullStack Developer 💻</h3>
-  
+ </hr> 
 
 You can find me 🌎:
 - [LinkedIN](https://www.linkedin.com/in/juli-humere/)
