@@ -1,6 +1,6 @@
 
 ![banner](https://user-images.githubusercontent.com/92033293/160144431-b8956841-82f9-419f-9b08-61824da01dc9.png)
-<header align="center">
+<header display="flex" align="center">
    <h1>Hi I'm Julio 👋
    
   </h1></header>
