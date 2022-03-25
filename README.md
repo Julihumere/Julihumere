@@ -21,3 +21,4 @@ const aboutMe = {
    currentOccupation: ["open for job opportunities and eager to learn new technologies"],
 };
 ```
+<h2>💻 Some stats 💻</h2>
