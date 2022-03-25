@@ -23,7 +23,7 @@ You can find me 🌎:
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, GIT, Postman],
+   code: [Javascript, HTML, CSS, Postman],
    technologies: {
       frontEnd: {
          js: ["React", "Redux", "React Native", "Webpack", "Babel", "Sass"],
@@ -32,10 +32,13 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["mySQL", "SQLServer", "Sequelize", "SQLite", "PostgreSQL"],
+      databases: {
+      ["mySQL", "SQLServer", "Sequelize", "SQLite", "PostgreSQL"]
+      },
       
    },
    currentOccupation: ["open for job opportunities and eager to learn new technologies"],
+   learning: [Typescript, GIT, Scrum]
 };
 ```
 <h2>💻 Some stats 💻</h2>
