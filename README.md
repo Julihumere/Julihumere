@@ -38,7 +38,7 @@ const aboutMe = {
       
    },
    currentOccupation: ["open for job opportunities and eager to learn new technologies"],
-   learning: [Typescript, GIT, Scrum]
+   learning: [Typescript,MongoDB, React Native, NextJS]
 };
 ```
 <h2>💻 Some stats 💻</h2>
