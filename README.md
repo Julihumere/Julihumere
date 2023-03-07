@@ -23,22 +23,13 @@ You can find me 🌎:
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Postman],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Redux", "React Native", "Webpack", "Babel", "Sass"],
-         css: ["Bootstrap", "MaterialUI", "TailwindUI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: {
-      ["mySQL", "SQLServer", "Sequelize", "SQLite", "PostgreSQL"]
-      },
-      
-   },
+   code: [Javascript, Typescript],
+  technologies:{ 
+    frontEnd: ["React", "Redux","React Native", "Next", "HTML", "Styled Components", "Bootstrap", "MaterialUI", "TailwindCSS"] 
+    backEnd: ["Node", "Express", "Sequelize", "Mongoose"]
+    databases: ["SQL", "Mongodb", "PostgreSQL"]
+}
    currentOccupation: ["open for job opportunities and eager to learn new technologies"],
-   learning: [Typescript,MongoDB, React Native, NextJS]
 };
 ```
 <h2>💻 Some stats 💻</h2>
