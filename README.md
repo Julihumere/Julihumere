@@ -25,8 +25,8 @@ const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript],
   technologies:{ 
-    frontEnd: ["React", "Redux","React Native", "Next", "HTML", "Styled Components", "Bootstrap", "MaterialUI", "TailwindCSS"] 
-    backEnd: ["Node", "Express", "Sequelize", "Mongoose"]
+    frontEnd: ["React", "Redux","React Native", "Next", "HTML", "Styled Components", "Bootstrap", "MaterialUI", "TailwindCSS"], 
+    backEnd: ["Node", "Express", "Sequelize", "Mongoose"],
     databases: ["SQL", "Mongodb", "PostgreSQL"]
 }
    currentOccupation: ["open for job opportunities and eager to learn new technologies"],
