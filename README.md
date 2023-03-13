@@ -1,20 +1,20 @@
 
 ![banner](https://user-images.githubusercontent.com/92033293/160144431-b8956841-82f9-419f-9b08-61824da01dc9.png)
 <header>
-   <h1 align="center">Hola, soy Julio 👋</h1> 
-   <h3 align="center">Desarrollador Full stack 👨‍💻Estoy abierto a opciones de trabajo full time como Desarrollador Full stack o Frontend 🚀   </h3>
+   <h1 align="center">Hi, I'm Julio 👋</h1> 
+   <h3 align="center">I'm full stack developer 👨‍💻I'm open to possibility for a job full time as Full stack o Frontend developer 🚀   </h3>
  </header> 
 
-- 🔭 Puedes ver mis proyectos en mi [Portafolio](https://portfolio-julio-humere.vercel.app)  
+- 🔭 You can see my projects on my [Portfolio](https://portfolio-julio-humere.vercel.app)  
   
 
-- 🌱 Actualmente me encuentro aprendiendo AWS y Firebase  
+- 🌱 At the moment, I'm learning AWS and Firebase  
   
 
 <br/>  
 
 
-## Mis habilidades aprendidas  
+## My Skills  
 
 
 ### Frontend  
@@ -52,7 +52,7 @@
 
 
 
-### Herramientas  
+### Tools  
 <div align="justify" width="100%">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
@@ -92,7 +92,7 @@
 
 <br/>  
    
-## Proyectos destacados
+## Feature projects
  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=PI-Countries" align="center" /><div>
