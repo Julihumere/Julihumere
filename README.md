@@ -1,5 +1,4 @@
 
-![banner](https://user-images.githubusercontent.com/92033293/160144431-b8956841-82f9-419f-9b08-61824da01dc9.png)
 <header>
    <h1 align="center">Hi, I'm Julio 👋</h1> 
    <h3 align="center">👨‍💻I'm open to possibility for a job full time as Full stack o Frontend developer 🚀   </h3>
