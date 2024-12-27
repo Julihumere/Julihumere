@@ -94,7 +94,7 @@
 ## Feature projects
  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=dream-color" align="center" /><div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=dream" align="center" /><div>
    
    </br>
    
