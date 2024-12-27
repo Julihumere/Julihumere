@@ -94,15 +94,15 @@
 ## Feature projects
  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=PI-Countries" align="center" /><div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=dream-color" align="center" /><div>
    
    </br>
    
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=PI_Food" align="center" /><div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=world-ranks" align="center" /><div>
    
    </br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=budgetAdmin" align="center" /><div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=julihumere&repo=github-profile" align="center" /><div>
    
    </br>
          
